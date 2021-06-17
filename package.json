@@ -1,0 +1,15 @@
+{
+  "name": "vezir",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "ege",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "discordjs-ytdl-advanced": "^0.1.6"
+  }
+}
